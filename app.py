@@ -9,7 +9,7 @@ produtos = {
     "BARROTE": 20.00
 }
 
-st.title("🪵 Orçamento de Madeiras")
+st.title("Orçamento de Madeiras")
 
 st.write("Digite a metragem desejada:")
 
@@ -40,4 +40,4 @@ for nome, qtd in quantidades.items():
 
 st.write("---")
 
-st.success(f"💰 TOTAL GERAL: R$ {total_geral:.2f}")
+st.success(f"TOTAL GERAL: R$ {total_geral:.2f}")
