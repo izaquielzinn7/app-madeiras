@@ -1,0 +1,6 @@
+{
+
+    "python.terminal.activateEnvironment": false,
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.persistentSessionReviveProcess": "never"
+}
