@@ -4,7 +4,7 @@ Aplicação simples feita em Python com Streamlit para calcular o valor de mater
 
 ---
 
- Funcionalidades
+# Funcionalidades
 
 * Seleção de tipos de madeira (Caibro, Ripa, Linha, Pranchão, Barrote)
 * Entrada de metragem por produto
