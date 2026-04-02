@@ -14,21 +14,21 @@ Aplicação simples feita em Python com Streamlit para calcular o valor de mater
 
 ---
 
-## Tecnologias utilizadas
+# Tecnologias utilizadas
 
 * Python
 * Streamlit
 
 ---
 
-## Pré-requisitos
+# Pré-requisitos
 
 * Python 3.x instalado
 * Pip instalado
 
 ---
 
-## Como executar o projeto
+# Como executar o projeto
 
 ```bash
 # Clone o repositório
@@ -46,7 +46,7 @@ streamlit run app.py
 
 ---
 
-## Demonstração
+# Demonstração
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f49d956a-71e5-482f-8c82-6fc3e729ca60" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d04655be-4d59-4122-910d-3c255963ad4a" />
@@ -54,7 +54,7 @@ streamlit run app.py
 
 ---
 
-## Estrutura do projeto
+# Estrutura do projeto
 
 ```
 orcamento-madeira
@@ -65,7 +65,7 @@ orcamento-madeira
 
 ---
 
-## Como funciona
+# Como funciona
 
 O usuário informa a metragem desejada para cada tipo de madeira, e o sistema:
 
@@ -76,7 +76,7 @@ O usuário informa a metragem desejada para cada tipo de madeira, e o sistema:
 
 ---
 
-## Melhorias futuras
+# Melhorias futuras
 
 * Exportar orçamento em PDF
 * Adicionar mais tipos de madeira
@@ -86,7 +86,7 @@ O usuário informa a metragem desejada para cada tipo de madeira, e o sistema:
 
 ---
 
-## Feito por
+# Feito por
 
 **Izaquiel Monteiro**
 GitHub: https://github.com/izaquielzinn7
