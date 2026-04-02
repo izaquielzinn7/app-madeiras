@@ -18,7 +18,6 @@ Python
 Streamlit
 
 
-Como executar o projeto
 Pré-requisitos
 
 Python 3.x instalado
