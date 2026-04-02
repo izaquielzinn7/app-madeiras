@@ -89,7 +89,7 @@ O usuário informa a metragem desejada para cada tipo de madeira, e o sistema:
 # Feito por
 
 **Izaquiel Monteiro**
-GitHub: (https://github.com/IzaquielDev
+GitHub: https://github.com/IzaquielDev
 
 ---
 
