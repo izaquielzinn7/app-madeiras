@@ -5,11 +5,11 @@ Orçamento de Madeiras (Streamlit)
 
 Funcionalidades
 
-Seleção de tipos de madeira (Caibro, Ripa, Linha, Pranchão, Barrote)
-Entrada de metragem por produto
-Cálculo automático de subtotal por item
-Exibição de resumo detalhado
-Cálculo do valor total geral
+Seleção de tipos de madeira (Caibro, Ripa, Linha, Pranchão, Barrote).
+Entrada de metragem por produto.
+Cálculo automático de subtotal por item.
+Exibição de resumo detalhado.
+Cálculo do valor total geral.
 
 
 Tecnologias utilizadas
