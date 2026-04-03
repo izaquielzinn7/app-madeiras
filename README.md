@@ -32,7 +32,7 @@ Aplicação simples feita em Python com Streamlit para calcular o valor de mater
 
 ```bash
 # Clone o repositório
-git clone https://github.com/izaquielzinn7/app-madeiras
+git clone https://github.com/IzaquielDev/app-madeiras
 
 # Entre na pasta
 cd orcamento-madeira
