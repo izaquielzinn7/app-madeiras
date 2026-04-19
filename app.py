@@ -24,14 +24,14 @@ st.title("Orçamento de Materiais - Modo Balcão")
 
 # --- BARRA LATERAL: CONFIGURAÇÕES ---
 with st.sidebar:
-    st.header("⚙️ Configurações")
+    st.header("Configurações")
     st.session_state.lista_precos = st.data_editor(
         st.session_state.lista_precos, 
         num_rows="dynamic", 
         key="config_precos"
     )
     
-    if st.button("🗑️ Limpar Orçamento Inteiro"):
+    if st.button("Limpar Orçamento Inteiro"):
         st.session_state.carrinho = []
         st.rerun()
 
@@ -40,7 +40,7 @@ dict_precos = {item.get("Material", "").upper(): item.get("Preço", 0.0) for ite
 
 # --- ÁREA DE LANÇAMENTO ---
 with st.container(border=True):
-    st.subheader("➕ Adicionar Item")
+    st.subheader("Adicionar Item")
     
     c1, c2, c3 = st.columns([2, 1, 1])
     
@@ -84,7 +84,7 @@ with st.container(border=True):
         p_unit = dict_precos.get(material_sel, 0.0)
         subtotal = (qtd_sel * met_sel) * p_unit
 
-    if st.button("Adicionar ao Pedido ✅", use_container_width=True):
+    if st.button("Adicionar ao Pedido", use_container_width=True):
         if material_sel and met_sel > 0:
             st.session_state.carrinho.append({
                 "Material": material_sel,
@@ -109,7 +109,7 @@ if st.session_state.carrinho:
     total_final = sum(item["Subtotal"] for item in st.session_state.carrinho)
     st.metric(label="TOTAL GERAL", value=f"R$ {total_final:.2f}")
     
-    if st.button("↩️ Remover Último"):
+    if st.button("Remover Último"):
         st.session_state.carrinho.pop()
         st.rerun()
 else:
