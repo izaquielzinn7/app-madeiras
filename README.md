@@ -1,4 +1,4 @@
-# Orçamento de Madeiras (Streamlit)
+#Orçamento de Madeiras (Streamlit)
 
 Aplicação simples feita em Python com Streamlit para calcular o valor de materiais de madeira com base na metragem informada.
 
@@ -79,8 +79,6 @@ O usuário informa a metragem desejada para cada tipo de madeira, e o sistema:
 # Melhorias futuras
 
 * Exportar orçamento em PDF
-* Adicionar mais tipos de madeira
-* Editar valores antes do cálculo
 * Histórico de orçamentos
 * Interface mais avançada
 
@@ -91,7 +89,7 @@ O usuário informa a metragem desejada para cada tipo de madeira, e o sistema:
 **Izaquiel Monteiro**
 GitHub: https://github.com/IzaquielDev
 
-[Orçamento de Madeiras](https://app-madeiras.streamlit.app/)
+[Orçamento de Madeiras](https://orcamentomateriais.streamlit.app/)
 
 ---
 
