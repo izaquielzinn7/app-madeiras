@@ -1,4 +1,4 @@
-#Orçamento de Madeiras (Streamlit)
+# Orçamento de Madeiras (Streamlit)
 
 Aplicação simples feita em Python com Streamlit para calcular o valor de materiais de madeira com base na metragem informada.
 
@@ -48,8 +48,8 @@ streamlit run app.py
 
 # Demonstração
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f49d956a-71e5-482f-8c82-6fc3e729ca60" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d04655be-4d59-4122-910d-3c255963ad4a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14efae13-2c22-478d-8218-8cd2141713d6" />
+
 
 
 ---
